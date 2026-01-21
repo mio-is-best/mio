@@ -1,0 +1,35 @@
+name: Bug Report
+description: 反馈一个bug
+title: "[Bug]: "
+labels: ["bug"]
+type: bug
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 现象
+      description: 发生了什么,预期发生什么?
+    validations:
+      required: true
+  - type: dropdown
+    id: game
+    attributes:
+      label: 游戏
+      description: 哪个游戏出现了bug?
+      options:
+        - 技能国象
+        - 群友抽卡
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: 您使用的浏览器
+      multiple: true
+      options:
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - QQ
+

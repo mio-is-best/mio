@@ -1,0 +1,12 @@
+name: Request
+description: 建议
+title: "[Request]: "
+labels: ["Request"]
+type: request
+body:
+  - type: textarea
+    id: requests
+    attributes:
+      description: 反馈或建议
+    validations:
+      required: true
