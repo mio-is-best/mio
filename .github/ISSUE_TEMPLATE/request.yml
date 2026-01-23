@@ -19,6 +19,7 @@ body:
       options:
         - 技能国象
         - 群友抽卡
+        - 杀戮群友
   - type: textarea
     id: requests
     attributes:
