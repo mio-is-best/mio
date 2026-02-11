@@ -4,3 +4,4 @@
 
 [杀戮群友](https://render.lingguangcontent.com/p/lingguang/0a-0b2282f117703523312892711e2e41/index.html)
 
+[模拟炒股](https://www.lingguang.com/share/FLASH_APP-271d6cf6-0ae5-440c-be9a-b1641d2a6cef21)
